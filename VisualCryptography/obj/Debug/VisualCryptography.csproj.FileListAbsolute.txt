@@ -1,0 +1,10 @@
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe.config
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.exe
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\bin\Debug\VisualCryptography.pdb
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\bin\Debug\PGM_Reader.exe
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\bin\Debug\PGM_Reader.pdb
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\bin\Debug\PGM_Reader.exe.config
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csprojAssemblyReference.cache
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.csproj.CopyComplete
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.exe
+C:\Users\artur\OneDrive\Dokumenty\_PUT\POD\lab10\VisualCryptogrphy\VisualCryptography\VisualCryptography\obj\Debug\VisualCryptography.pdb

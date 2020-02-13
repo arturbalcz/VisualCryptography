@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualCryptography", "VisualCryptography\VisualCryptography.csproj", "{6F62CA65-F1BA-4BEE-9F3D-1AFFF681CA81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGM_Reader", "..\..\..\..\IO\PGM_Reader\PGM_Reader\PGM_Reader.csproj", "{B26D64C9-A523-4F64-A17A-8A1B61AD9028}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F62CA65-F1BA-4BEE-9F3D-1AFFF681CA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F62CA65-F1BA-4BEE-9F3D-1AFFF681CA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F62CA65-F1BA-4BEE-9F3D-1AFFF681CA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F62CA65-F1BA-4BEE-9F3D-1AFFF681CA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B26D64C9-A523-4F64-A17A-8A1B61AD9028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26D64C9-A523-4F64-A17A-8A1B61AD9028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26D64C9-A523-4F64-A17A-8A1B61AD9028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26D64C9-A523-4F64-A17A-8A1B61AD9028}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DF1763F-7D35-4385-941D-95FF2900FC56}
+	EndGlobalSection
+EndGlobal
